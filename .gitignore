@@ -1,0 +1,58 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+venv/
+env/
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+*.test
+*.prof
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# KiCad backups
+*-backups/
+*-cache.lib
+*-rescue.lib
+fp-info-cache
+*.bak
+*.bck
+*-save.kicad_*
