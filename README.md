@@ -38,6 +38,12 @@ Examples for reading relay dry contact states using serial port control lines (R
 
 **Note:** Ground (pin 5) is NOT used - each signal pair is self-contained.
 
+### Schematic
+
+![Schematic Diagram](schematic.png)
+
+The schematic shows the complete wiring of two dry relay contacts to the serial port control lines.
+
 ## Examples Provided
 
 ### C# (`sample.cs`)
