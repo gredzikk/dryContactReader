@@ -1,12 +1,12 @@
 # Dry Contact Reader Examples
 
-⚠️ **DANGER - READ THIS FIRST** ⚠️
+**DANGER - READ THIS FIRST** 
 
 **WARNING: This code is provided as-is for educational purposes only. It is a quick, dirty, and potentially dangerous implementation.**
 
 ## CRITICAL SAFETY NOTICES:
 
-### ⚠️ DRY CONTACTS ONLY ⚠️
+### DRY CONTACTS ONLY 
 **ONLY CONNECT DRY RELAY CONTACTS TO YOUR SERIAL PORT!**
 
 - ❌ **NEVER** connect any external voltage source to serial port pins
@@ -15,7 +15,7 @@
 - ✅ **ONLY** connect isolated, unpowered relay contacts (dry contacts)
 - ✅ Use relays with NO external power on the contact side
 
-### ⚠️ DISCLAIMER ⚠️
+### DISCLAIMER 
 **THE AUTHOR TAKES NO RESPONSIBILITY FOR:**
 - Damaged computers, serial ports, or USB adapters
 - Destroyed devices or equipment
